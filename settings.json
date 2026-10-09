@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "YuraPixel.aternos.me",
-    "port": 44415,
+    "ip": "manhunt-SADPEPLOE.aternos.me",
+    "port": 57347,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "like to SALMANxZIROXI ",
-        "Subscribe to SALMANxZIROXI!",
+        " ",
+        "",
       ]
     },
     "chat-log": true,
